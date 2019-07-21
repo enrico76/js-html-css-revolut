@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
+  padding: 35px 20px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+#menusx {
+  display: flex;
+  align-items: center;
+
+}
+#menudx {
+  display: flex;
+  align-items: center;
+
+}
+.menudrop {
+  display: none;
+}
